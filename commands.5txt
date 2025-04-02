@@ -1,0 +1,8 @@
+# Make scripts executable
+chmod +x fix-servlets.sh setup-database.sh
+
+# Run the servlet fix script to fix all jakarta imports
+./fix-servlets.sh
+
+# Setup the database with sample users
+./setup-database.sh

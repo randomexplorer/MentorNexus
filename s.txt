@@ -1,0 +1,14 @@
+mysqld is running as pid 17082
+
+web.xml and pom.xml
+
+
+# Clean previous build
+rm -rf target/
+
+# Create webapp structure
+mkdir -p src/main/webapp/login src/main/webapp/error
+
+# Build and run
+mvn clean package -DskipTests
+mvn tomcat7:run-war

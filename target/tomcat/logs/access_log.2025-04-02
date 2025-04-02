@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [02/Apr/2025:17:10:49 +0000] "GET / HTTP/1.1" 200 2894 http-bio-8080-exec-1 630
+0:0:0:0:0:0:0:1 - - [02/Apr/2025:17:11:19 +0000] "GET /resident/login.jsp HTTP/1.1" 200 1675 http-bio-8080-exec-3 51
+0:0:0:0:0:0:0:1 - - [02/Apr/2025:17:11:22 +0000] "POST /residentLoginServlet HTTP/1.1" 404 991 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [02/Apr/2025:17:11:46 +0000] "GET /resident/login.jsp HTTP/1.1" 200 1675 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [02/Apr/2025:17:11:48 +0000] "GET /index.jsp HTTP/1.1" 200 2894 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [02/Apr/2025:17:11:52 +0000] "GET /healthworker/login.jsp HTTP/1.1" 200 1712 http-bio-8080-exec-6 39
+0:0:0:0:0:0:0:1 - - [02/Apr/2025:17:11:55 +0000] "POST /healthWorkerLoginServlet HTTP/1.1" 404 999 http-bio-8080-exec-1 1

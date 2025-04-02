@@ -1,0 +1,12 @@
+blog/WriteBlogServlet.class
+appointment/Appointment.class
+resident/residentLoginServlet.class
+event/AddEventServlet.class
+database/AccessDatabase.class
+appointment/bookAppointmentServlet.class
+resident/residentSignupServlet.class
+resident/Resident.class
+blog/Blog.class
+healthworker/HealthWorker.class
+healthworker/healthWorkerLoginServlet.class
+event/Event.class
